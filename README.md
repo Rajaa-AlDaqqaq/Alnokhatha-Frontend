@@ -1,10 +1,16 @@
 # Alnokhatha-Frontend
 
-By : Rajaa , Zahra , Zainab
+## By : Rajaa , Zahra , Zainab
+
+# LINKEDIN FOR COLLABORATION
+
+[Rajaa](https://www.linkedin.com/in/raja-aldaqaq/)
+[Zainab](https://www.linkedin.com/in/zainab-alkhadhar/)
+[Zahra](https://www.linkedin.com/in/zahralaradi1softwareengineer/)
 
 # Description
 
-This system serves a real problem in the country, which is to help the employees of the Fisheries Department in Bahrain, as it helps the employee organize marine parking for boats.
+Based On MERN stack , This system serves a real problem in the country, which is to help the employees of the Fisheries Department in Bahrain, as it helps the employee organize marine parking for boats.
 
 # Features
 
@@ -15,7 +21,6 @@ This system serves a real problem in the country, which is to help the employees
 [5]- User Can Register, Login And Update Profile
 [6]- User Can Add Boats
 [7]- User Can Request For A Slip In A Specific Harbor
-[8]- Staff Can Approve Or Reject the Request By User...
 
 # Trello
 
@@ -31,3 +36,5 @@ This system serves a real problem in the country, which is to help the employees
 ![image](https://github.com/Rajaa-AlDaqqaq/Alnokhatha-Frontend/assets/143516645/8bf7e316-9b4f-4261-b0f5-803c96a6cb1b)
 
 # Future Updates
+
+[]- Staff Can Approve Or Reject the Request By User...
